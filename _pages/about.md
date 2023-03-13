@@ -7,20 +7,49 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a first-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. [Tao Chen](https://eetchen.github.io/). Before that, I got my bacholar degree from Fudan University. I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
+<br />
+<br />
+I am a first-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. [Tao Chen](https://eetchen.github.io/). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
+<br />
+<br />
+
 ## News
 
+<br />
 **2023.02** Two Papers ([Bi3D]() and [Uni3D]()) are accepted by CVPR 2023.
-
+<br />
+<br />
 **2022.07** One Paper ([HelixFormer]()) is accepted by ACM'MM 2022.
 
+<br />
+<br />
+
 ## Recent Publications
+<br />
 
+[Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection]()
+<br />
 
+[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection]()
+<br />
+
+[Learning Cross-image Semantic Relation in Transformer for Few-shot Fine-grained Image Classification]()
+
+<br />
+<br />
+
+## Education
+
+<br />
+2022.08 - Present
+Ph.D., School of Information Science and Technology, Fudan University
+
+<br />
+2018.09 - 2022.06
+B.Eng.,  School of Information Science and Technology, Fudan University
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
