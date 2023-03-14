@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in School of Information Science and Technology, Fudan University, 2018~2022
 * Ph.D in School of Information Science and Technology, Fudan University, 2022~Present
-  * supervisor: [Tao Chen](https://eetchen.github.io/)
+  * Supervisor: [Tao Chen](https://eetchen.github.io/)
 
 Work experience
 ======
