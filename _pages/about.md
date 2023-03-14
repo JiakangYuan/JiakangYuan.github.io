@@ -10,7 +10,7 @@ redirect_from:
 <br />
 <br />
 <p style="text-align:justify; text-justify:inter-ideograph">
-I am a first-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. [Tao Chen](https://eetchen.github.io/). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
+I am a first-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. Tao Chen. I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 </p>
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
