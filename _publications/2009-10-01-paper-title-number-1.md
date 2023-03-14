@@ -3,13 +3,12 @@ title: "Learning Cross-image Object Semantic Relation in Transformer for Few-sho
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-06-30
+venue: 'ACM International Conference on Multimedia'
+paperurl: 'https://arxiv.org/abs/2207.00784'
+citation: 'Zhang B, Yuan J, Li B, et al. Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification[C]//Proceedings of the 30th ACM International Conference on Multimedia. 2022: 2135-2144.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2207.00784)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: citation: Zhang B, Yuan J, Li B, et al. Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification[C]//Proceedings of the 30th ACM International Conference on Multimedia. 2022: 2135-2144.
