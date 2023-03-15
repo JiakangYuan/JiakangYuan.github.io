@@ -20,23 +20,23 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 ## News
 
 <br />
-**2023.02** Two Papers ([Bi3D]() and [Uni3D]()) are accepted by CVPR 2023.
+**2023.02** Two Papers (Bi3D and Uni3D) are accepted by CVPR 2023.
 <br />
 <br />
-**2022.07** One Paper ([HelixFormer]()) is accepted by ACM'MM 2022.
+**2022.07** One Paper (HelixFormer) is accepted by ACM'MM 2022.
 
 <br />
 
 ## Recent Publications
 <br />
 
-[Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection]()
+[Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection](https://arxiv.org/abs/2303.05886)
 <br />
 
-[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection]()
+[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection](https://arxiv.org/abs/2303.06880)
 <br />
 
-[Learning Cross-image Semantic Relation in Transformer for Few-shot Fine-grained Image Classification]()
+[Learning Cross-image Semantic Relation in Transformer for Few-shot Fine-grained Image Classification](https://arxiv.org/abs/2207.00784)
 
 <br />
 
@@ -46,13 +46,13 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 2022.08 - Present
 Ph.D., School of Information Science and Technology
 
-[Fudan University]()
+[Fudan University](https://www.fudan.edu.cn/)
 
 <br />
 2018.09 - 2022.06
 B.Eng.,  School of Information Science and Technology
 
-[Fudan University]()
+[Fudan University](https://www.fudan.edu.cn/)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

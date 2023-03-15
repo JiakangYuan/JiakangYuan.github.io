@@ -18,7 +18,7 @@ Work experience
 ======
 * 2022.08~Present
   * Intern at Shanghai AI Lab
-  * Mentor: [Bo Zhang]()
+  * Mentor: [Bo Zhang](https://bobrown.github.io/boZhang.github.io/)
   
 
 Publications
