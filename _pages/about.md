@@ -40,6 +40,15 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 
 <br />
 
+## Priprints
+<br />
+
+[AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
+<br />
+
+[UniDA3D: Unified Domain Adaptive 3D Semantic Segmentation Pipeline](https://arxiv.org/abs/2212.10390)
+<br />
+
 ## Education
 
 <br />
