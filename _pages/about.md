@@ -49,6 +49,8 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 [UniDA3D: Unified Domain Adaptive 3D Semantic Segmentation Pipeline](https://arxiv.org/abs/2212.10390)
 <br />
 
+[ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
+
 ## Education
 
 <br />
