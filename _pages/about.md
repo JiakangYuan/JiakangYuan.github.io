@@ -10,7 +10,7 @@ redirect_from:
 <br />
 <br />
 <p style="text-align:justify; text-justify:inter-ideograph">
-I am a first-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. Tao Chen. I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
+I am a second-year Ph.D. student in the School of Information Science and Technology, Fudan University, under Prof. Tao Chen. I work in the fields of deep learning and computer vision, with particular focuses on 3D perception and transfer learning. My research pursues to build robust and scalable perception models and find unified representation that can be generalized across different domains and scenarios, with minimum or no human annotations needed.
 </p>
 I am fortunate to have research attachments and internships at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
@@ -18,7 +18,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <br />
 
 ## News
-
+<br />
+**2023.09** One Paper (AD-PT) is accepted by NeurIPS 2023.
+<br />
 <br />
 **2023.02** Two Papers (Bi3D and Uni3D) are accepted by CVPR 2023.
 <br />
@@ -28,6 +30,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <br />
 
 ## Recent Publications
+<br />
+
+[AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
 <br />
 
 [Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection](https://arxiv.org/abs/2303.05886)
@@ -43,13 +48,13 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 ## Priprints
 <br />
 
-[AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
-<br />
-
 [UniDA3D: Unified Domain Adaptive 3D Semantic Segmentation Pipeline](https://arxiv.org/abs/2212.10390)
 <br />
 
 [ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
+<br />
+
+[SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2309.10527)
 
 ## Education
 
