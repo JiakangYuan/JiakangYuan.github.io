@@ -19,6 +19,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 
 ## News
 <br />
+**2024.01** One Paper (ResimAD) is accepted by ICLR 2024.
+<br />
+<br />
 **2023.09** One Paper (AD-PT) is accepted by NeurIPS 2023.
 <br />
 <br />
@@ -30,6 +33,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <br />
 
 ## Recent Publications
+<br />
+
+[ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
 <br />
 
 [AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
@@ -49,9 +55,6 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <br />
 
 [UniDA3D: Unified Domain Adaptive 3D Semantic Segmentation Pipeline](https://arxiv.org/abs/2212.10390)
-<br />
-
-[ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
 <br />
 
 [SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2309.10527)
