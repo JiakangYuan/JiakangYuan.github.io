@@ -19,6 +19,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 
 ## News
 <br />
+**2024.07** One Paper (RegTTA3D) is accepted by ECCV 2024.
+<br />
+<br />
 **2024.01** One Paper (ResimAD) is accepted by ICLR 2024.
 <br />
 <br />
@@ -33,6 +36,9 @@ I am fortunate to have research attachments and internships at [Shanghai AI Lab]
 <br />
 
 ## Recent Publications
+<br />
+
+RegTTA3D: Better Regression Makes Better Test-time Adaptive 3D Object Detection
 <br />
 
 [ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
