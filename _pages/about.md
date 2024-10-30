@@ -155,6 +155,7 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 <div style='margin-top: 30pt'></div>
 
 # 💻 Internships
+- *2024.10 - Now*, [Shanghai AI Laboratory](), China.
 - *2022.08 - 2024.02*, [Shanghai AI Laboratory](), China.
 
 <div style='margin-top: 30pt'></div>
