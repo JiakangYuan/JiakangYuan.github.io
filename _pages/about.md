@@ -231,4 +231,4 @@ Xiangchao Yan<sup>\*</sup>, Runjian Chen<sup>\*</sup>, Bo Zhang, Hancheng Ye, Re
 
 # 📝 Academic Services
 
-- Reviewer of CVPR, ICML, ICLR, ECCV, T-CSVT, T-MM.
+- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, T-IP, T-CSVT, T-MM.
