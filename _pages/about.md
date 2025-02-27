@@ -26,9 +26,9 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
-  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One papers (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. </p> CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. 
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One papers (GeoX) is accepted by <font color="red">ICLR 2025</font>. </p> GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities.
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One papers (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
+  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. </p> CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. 
+  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. </p> GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities.
+  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 I recieve the <font color="red">national scholarship</font>. </p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <font color="red">NeurIPS 2024</font>. One is about training-free acceleration of diffusion model, another is about mamba architecture in 3D detection.</p>
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
