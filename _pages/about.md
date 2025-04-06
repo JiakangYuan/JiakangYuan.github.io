@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   I am current a third-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a hred="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception, transfer learning, multi-modal LLM. My research pursues to develop vision-language systems that possess the capacity to comprehend, reason, and envision the physical world and explore using AI for scientific discovery. 
@@ -26,8 +27,8 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
-  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. </p> CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. 
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. </p> GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities.
+  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. </p>
+  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 I recieve the <font color="red">national scholarship</font>. </p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <font color="red">NeurIPS 2024</font>. One is about training-free acceleration of diffusion model, another is about mamba architecture in 3D detection.</p>
@@ -39,22 +40,31 @@ redirect_from:
 
 <div style='margin-top: 30pt'></div>
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cststereo.png' alt="sym" width="100%"></div></div>
+
+# 📝 Publications & Preprints
+
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <button class="toggleButton" data-target="publications">publications</button>
+  <button class="toggleButton" data-target="preprints">preprints</button>
+</div>
+
+<div id="publications" style="display: block; margin-top: 10px;">
+<!-- publications -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cststereo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consistency-aware Self-Training for Iterative-based Stereo Matching]()
 
 Jingyi Zhou<sup>\*</sup>, Peng Ye<sup>\*</sup>, Haoyu Zhang, **<u>Jiakang Yuan</u>** (Project Leader), Qiang Rao, YangChenXu Liu, Cailin Wu, Feng Xu, Tao Chen
 
-[[**Project**]]()[[**Paper**]]()
+[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2503.23747)
 - Propose CST-Stereo, which achieves impressive results in various scenarios, including in domain, domain adaptive and domain generalization,
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://arxiv.org/pdf/2412.11863v1)
@@ -71,7 +81,7 @@ Renqiu Xia<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Hancheng Ye, Wenjie Wu, Hong
 
 [All-in-One: Transferring Vision Foundation Models into Stereo Matching](https://arxiv.org/abs/2412.09912)
 
-Jingyi Zhou<sup>\*</sup>, Haoyu Zhang<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>, Peng Ye, Tao Chen, Hao Jiang, Meiya Chen, Yangyang Zhang
+Jingyi Zhou<sup>\*</sup>, Haoyu Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u>**<sup>\*</sup>, Peng Ye, Tao Chen, Hao Jiang, Meiya Chen, Yangyang Zhang
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2412.09912)
 - Propose AIOStereo to flexibly select and transfer knowledge from multiple heterogeneous VFMs to a single stereo matching model. (<font color="red">Rank 1st</font> on [Middlebury Stereo Evaluation](https://vision.middlebury.edu/stereo/eval3/)) 
@@ -173,10 +183,11 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 - Propose a Transformer-based double-helix model to achieve the cross-image object semantic relation mining in a bidirectional and symmetrical manner.
 </div>
 </div>
-
+</div>
 <div style='margin-top: 30pt'></div>
 
-<!-- # 📄 Preprints 
+<!-- Preprints -->
+<div id="preprints" style="display: none; margin-top: 10px;">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -200,8 +211,20 @@ Xiangchao Yan<sup>\*</sup>, Runjian Chen<sup>\*</sup>, Bo Zhang, Hancheng Ye, Re
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.10527)
 - Propose SPOT, an unified and scalable pre-training methed for Autonomous Driving.
 </div>
-</div> -->
+</div>
+</div>
 
+<script>
+  // 获取所有按钮并添加点击事件
+  document.querySelectorAll(".toggleButton").forEach(button => {
+    button.addEventListener("click", function() {
+      const targetId = this.getAttribute("data-target");
+      const content = document.getElementById(targetId);
+      // 切换显示/隐藏
+      content.style.display = content.style.display === "none" ? "block" : "none";
+    });
+  });
+</script>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
