@@ -222,7 +222,7 @@ Xiangchao Yan<sup>\*</sup>, Runjian Chen<sup>\*</sup>, Bo Zhang, Hancheng Ye, Re
     button.addEventListener("click", function() {
       const targetId = this.getAttribute("data-target");
       // 隐藏所有内容块
-      document.querySelectorAll("div[id^='content']").forEach(content => {
+      document.querySelectorAll("#publications, #preprints").forEach(content => {
         content.style.display = "none";
       });
       // 显示对应的内容块
