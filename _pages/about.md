@@ -19,7 +19,7 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
 
-# About Me
+<h2>About Me</h2>
 
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   I am current a third-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a hred="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception, transfer learning, multi-modal LLM. My research pursues to develop vision-language systems that possess the capacity to comprehend, reason, and envision the physical world and explore using AI for scientific discovery. 
