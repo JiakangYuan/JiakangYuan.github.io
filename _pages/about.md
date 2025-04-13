@@ -51,14 +51,14 @@ redirect_from:
   background-color: #007BFF; /* 按钮的背景颜色 */
   color: white; /* 按钮的文字颜色 */
   border: none; /* 去掉按钮的边框 */
-  padding: 10px 20px; /* 按钮的内边距 */
+  padding: 8px 20px; /* 调整后的内边距 */
   text-align: center; /* 文本居中 */
   text-decoration: none; /* 去掉文本装饰 */
   display: inline-block; /* 使按钮在行内显示 */
-  font-size: 16px; /* 字体大小 */
+  font-size: 14px; /* 调整后的字体大小 */
   margin: 4px 2px; /* 外边距 */
   cursor: pointer; /* 鼠标悬停时显示手型光标 */
-  border-radius: 5px; /* 圆角 */
+  border-radius: 20px; /* 胶囊形状 */
   transition-duration: 0.4s; /* 过渡效果 */
 }
 
