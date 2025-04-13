@@ -214,29 +214,79 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 <!-- Preprints -->
 <div id="preprints" style="display: none; margin-top: 10px;">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/omnicaptioner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://arxiv.org/pdf/2412.11863v1)
+[OmniCaptioner: One Captioner to Rule Them All](https://arxiv.org/abs/2504.07089)
 
-Renqiu Xia<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Hancheng Ye, Wenjie Wu, Hongbin Zhou, **<u>Jiakang Yuan</u>**, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang
+Yiting Lu<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Zhen Li, Shitian Zhao, Qi Qin, Xinyue Li, Le Zhuo, Licheng Wen, Dongyang Liu, Yuewen Cao, Xiangchao Yan, Xin Li, Botian Shi, Tao Chen, Zhibo Chen, Lei Bai, Bo Zhang, Peng Gao
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2412.11863v1)
-- Propose GeoX, a multi-modal large model focusing on geometric understanding and reasoning tasks.
+[[**Project**]](https://alpha-innovator.github.io/OmniCaptioner-project-page/)[[**Paper**]](https://arxiv.org/abs/2504.07089)
+- Propose Omnicaption, an all-in-one visual to text mapping tool.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lumina.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SPOT: Scalable 3D Pre-training via Occupancy Prediction for Learning Transferable 3D Representations](https://arxiv.org/abs/2309.10527)
+[Lumina-Image 2.0: A Unified and Efficient Image Generative Framework](https://arxiv.org/abs/2503.21758)
 
-Xiangchao Yan<sup>\*</sup>, Runjian Chen<sup>\*</sup>, Bo Zhang, Hancheng Ye, Renqiu Xia, **<u>Jiakang Yuan</u>**, Hongbin Zhou, Xinyu Cai, Botian Shi, Wenqi Shao, Ping Luo, Yu Qiao, Tao Chen, Junchi Yan
+Qi Qin, Le Zhuo, Yi Xin, Ruoyi Du, Zhen Li, Bin Fu, Yiting Lu, **<u>Jiakang Yuan</u>**, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Manyuan Zhang, Will Beddow, Erwann Millon, Victor Perez, Wenhai Wang, Conghui He, Bo Zhang, Xiaohong Liu, Hongsheng Li, Yu Qiao, Chang Xu, Peng Gao
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.10527)
-- Propose SPOT, an unified and scalable pre-training methed for Autonomous Driving.
+[[**Project**]](https://github.com/Alpha-VLLM/Lumina-Image-2.0)[[**Paper**]](https://arxiv.org/abs/2503.21758)
+- State-of-the-art text-to-image generation model.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/prototta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bidirectional Prototype-Reward co-Evolution for Test-Time Adaptation of Vision-Language Models](https://www.arxiv.org/abs/2503.09394)
+
+Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Sun, Xuelong Li
+
+[[**Project**]](https://www.arxiv.org/abs/2503.09394)[[**Paper**]](https://www.arxiv.org/abs/2503.09394)
+- Novel TTA framework for VLMs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/pdf/2501.03916)
+
+**<u>Jiakang Yuan</u>**, Xiangchao Yan, Shiyang Feng, Bo Zhang, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou
+
+[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page/)[[**Paper**]](https://arxiv.org/pdf/2501.03916)
+- Propose Dolphin, a closed-loop auto-research framework.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
+
+Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Renqiu Xia, Bin Wang, Bo Zhang, Lei Bai
+
+[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
+- Propose SurveyForge which can automatically generate and refine the content of survey.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
+
+Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Hongbin Zhou, Renqiu Xia, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
+
+[[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
+- a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
+</div>
+</div>
+
+
 </div>
 
 <script>
