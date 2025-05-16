@@ -29,6 +29,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
+  - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 Two papers (SurveyForge and Dolphin) are accepted by <font color="red">ACL 2025</font>. Both are introduced for accelerate scientific research. </p>
   - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
@@ -76,6 +77,30 @@ redirect_from:
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/pdf/2501.03916)
+
+**<u>Jiakang Yuan</u>**, Xiangchao Yan, Shiyang Feng, Bo Zhang, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou
+
+[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page/)[[**Paper**]](https://arxiv.org/pdf/2501.03916)
+- Propose Dolphin, a closed-loop auto-research framework.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
+
+Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Renqiu Xia, Bin Wang, Bo Zhang, Lei Bai
+
+[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
+- Propose SurveyForge which can automatically generate and refine the content of survey.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cststereo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -247,30 +272,6 @@ Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Su
 
 [[**Project**]](https://www.arxiv.org/abs/2503.09394)[[**Paper**]](https://www.arxiv.org/abs/2503.09394)
 - Novel TTA framework for VLMs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/pdf/2501.03916)
-
-**<u>Jiakang Yuan</u>**, Xiangchao Yan, Shiyang Feng, Bo Zhang, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou
-
-[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page/)[[**Paper**]](https://arxiv.org/pdf/2501.03916)
-- Propose Dolphin, a closed-loop auto-research framework.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
-
-Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Renqiu Xia, Bin Wang, Bo Zhang, Lei Bai
-
-[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
-- Propose SurveyForge which can automatically generate and refine the content of survey.
 </div>
 </div>
 
