@@ -244,7 +244,7 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 
 [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938)
 
-NovelSeek Team: Bo Zhang, Shiyang Feng, Xiangchao Yan, **<u>Jiakang Yuan</u>** (Core contributer), Zhiyin Yu, Xiaohan He, Songtao Huang, Shaowei Hou, Zheng Nie, Zhilong Wang, Jinyao Liu, Runmin Ma, Tianshuo Peng, Peng Ye, Dongzhan Zhou, Shufei Zhang, Xiaosong Wang, Yilan Zhang, Meng Li, Zhongying Tu, Xiangyu Yue, Wangli Ouyang, Bowen Zhou, Lei Bai
+NovelSeek Team: Bo Zhang, Shiyang Feng, Xiangchao Yan, **<u>Jiakang Yuan</u>** (Core contributor), Zhiyin Yu, Xiaohan He, Songtao Huang, Shaowei Hou, Zheng Nie, Zhilong Wang, Jinyao Liu, Runmin Ma, Tianshuo Peng, Peng Ye, Dongzhan Zhou, Shufei Zhang, Xiaosong Wang, Yilan Zhang, Meng Li, Zhongying Tu, Xiangyu Yue, Wangli Ouyang, Bowen Zhou, Lei Bai
 
 [[**Project**]](https://alpha-innovator.github.io/NovelSeek-project-page/)[[**Paper**]](https://arxiv.org/abs/2505.16938)
 - Introduce NovelSeek, a unified closed-loop multi-agent framework for Automatic Scientific Research.
