@@ -246,7 +246,7 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 
 **<u>Jiakang Yuan</u><sup>\*</sup>**, Tianshuo Peng<sup>\*</sup>, Yilei Jiang, Yiting Lu, Renrui Zhang, Kaituo Feng, Chaoyou Fu, Tao Chen, Lei Bai, Bo Zhang, Xiangyu Yue
 
-[[**Project**]](https://alpha-innovator.github.io/mmereasoning.github.io/)[[**Paper**]](https://arxiv.org/pdf/2505.21327)[[**Huggingface]](https://huggingface.co/datasets/U4R/MME-Reasoning)[[**Learderboard**]](https://alpha-innovator.github.io/mmereasoning.github.io/#leaderboard)
+[[**Project**]](https://alpha-innovator.github.io/mmereasoning.github.io/)[[**Paper**]](https://arxiv.org/pdf/2505.21327)[[**Huggingface**]](https://huggingface.co/datasets/U4R/MME-Reasoning)[[**Learderboard**]](https://alpha-innovator.github.io/mmereasoning.github.io/#leaderboard)
 - Introduce MME-Reasoning, a comprehensive benchmark specifically designed to evaluate the reasoning capability of MLLMs.
 </div>
 </div>
