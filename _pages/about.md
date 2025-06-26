@@ -29,6 +29,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
+  - <p style='text-align:justify'><i>2025.6</i>: &nbsp;🎉🎉 Two papers (Lumina Image 2.0 and Chimera) are accepted by <font color="red">ICCV 2025 2025</font>. One is about text-to-image generation, the other is about multimodal reasoning.</p>
   - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 Two papers (SurveyForge and Dolphin) are accepted by <font color="red">ACL 2025</font>. Both are introduced for accelerate scientific research. </p>
   - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. </p>
@@ -77,6 +78,31 @@ redirect_from:
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
+
+Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Hongbin Zhou, Renqiu Xia, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
+
+[[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
+- a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/lumina.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lumina-Image 2.0: A Unified and Efficient Image Generative Framework](https://arxiv.org/abs/2503.21758)
+
+Qi Qin, Le Zhuo, Yi Xin, Ruoyi Du, Zhen Li, Bin Fu, Yiting Lu, **<u>Jiakang Yuan</u>**, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Manyuan Zhang, Will Beddow, Erwann Millon, Victor Perez, Wenhai Wang, Conghui He, Bo Zhang, Xiaohong Liu, Hongsheng Li, Yu Qiao, Chang Xu, Peng Gao
+
+[[**Project**]](https://github.com/Alpha-VLLM/Lumina-Image-2.0)[[**Paper**]](https://arxiv.org/abs/2503.21758)
+- State-of-the-art text-to-image generation model.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -275,18 +301,6 @@ Yiting Lu<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Zhen Li, Shitian Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lumina.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Lumina-Image 2.0: A Unified and Efficient Image Generative Framework](https://arxiv.org/abs/2503.21758)
-
-Qi Qin, Le Zhuo, Yi Xin, Ruoyi Du, Zhen Li, Bin Fu, Yiting Lu, **<u>Jiakang Yuan</u>**, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Manyuan Zhang, Will Beddow, Erwann Millon, Victor Perez, Wenhai Wang, Conghui He, Bo Zhang, Xiaohong Liu, Hongsheng Li, Yu Qiao, Chang Xu, Peng Gao
-
-[[**Project**]](https://github.com/Alpha-VLLM/Lumina-Image-2.0)[[**Paper**]](https://arxiv.org/abs/2503.21758)
-- State-of-the-art text-to-image generation model.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/prototta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -296,18 +310,6 @@ Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Su
 
 [[**Project**]](https://www.arxiv.org/abs/2503.09394)[[**Paper**]](https://www.arxiv.org/abs/2503.09394)
 - Novel TTA framework for VLMs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
-
-Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Hongbin Zhou, Renqiu Xia, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
-
-[[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
-- a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
 </div>
 </div>
 
