@@ -29,6 +29,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
+  - <p style='text-align:justify'><i>2025.7</i>: &nbsp;🎉🎉 SPOT is accepted by <font color="red">IEEE T-PAMI 2025</font>.</p>
   - <p style='text-align:justify'><i>2025.6</i>: &nbsp;🎉🎉 Two papers (Lumina Image 2.0 and Chimera) are accepted by <font color="red">ICCV 2025</font>. One is about text-to-image generation, the other is about multimodal reasoning.</p>
   - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 Two papers (SurveyForge and Dolphin) are accepted by <font color="red">ACL 2025</font>. Both are introduced for accelerate scientific research. </p>
   - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 We release NovelSeek, a unified closed-loop multi-agent framework for Automatic Scientific Research.</p>
