@@ -15,67 +15,123 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class=’anchor’ id=’about-me’></span> -->
 
-<div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
-
+<div class="section-card" style="margin-top: 24px;" markdown="1">
 <h2>About Me</h2>
+<div class="about-body">
+I am current a fourth-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a href="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I’m currently working in the fields of agentic model, multi-agent system, and multi-modal large language models. My research pursues to develop AI systems that can understand, reason, and interact with the real world.
+</div>
 
-  <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  I am current a third-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a hred="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception, transfer learning, multi-modal LLM. My research pursues to develop vision-language systems that possess the capacity to comprehend, reason, and envision the physical world and explore using AI for scientific discovery. 
+<div style="margin-top: 18px; background: #f4f7ff; border: 1px solid #d8e3fb; border-radius: 12px; padding: 14px 18px;">
+  <div style="font-size: 0.82em; font-weight: 700; color: #1a73e8; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 10px;">Research Interests</div>
+  <div class="research-tags" style="margin-top: 0;">
+    <span class="research-tag">🤖 Agentic AI</span>
+    <span class="research-tag">🔗 Multi-Agent System</span>
+    <span class="research-tag">👁️ Multimodal LLM</span>
+    <span class="research-tag">🔬 Auto-Research</span>
+    <span class="research-tag">🌐 Vision-Language</span>
   </div>
 </div>
 
-<div style='margin-top: 30pt'></div>
+</div>
+
+<div class="section-card" markdown="1">
 
 # 🔥 News
-  - <p style='text-align:justify'><i>2025.7</i>: &nbsp;🎉🎉 SPOT is accepted by <font color="red">IEEE T-PAMI 2025</font>.</p>
-  - <p style='text-align:justify'><i>2025.6</i>: &nbsp;🎉🎉 Two papers (Lumina Image 2.0 and Chimera) are accepted by <font color="red">ICCV 2025</font>. One is about text-to-image generation, the other is about multimodal reasoning.</p>
-  - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 Two papers (SurveyForge and Dolphin) are accepted by <font color="red">ACL 2025</font>. Both are introduced for accelerate scientific research. </p>
-  - <p style='text-align:justify'><i>2025.5</i>: &nbsp;🎉🎉 We release NovelSeek, a unified closed-loop multi-agent framework for Automatic Scientific Research.</p>
-  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. </p>
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. </p>
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 I recieve the <font color="red">national scholarship</font>. </p>
-  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <font color="red">NeurIPS 2024</font>. One is about training-free acceleration of diffusion model, another is about mamba architecture in 3D detection.</p>
-  - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
-  - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 One Paper (AD-PT) is accepted by <font color="red">NeurIPS 2023</font>.We explore 3D pre-training pipeline to obtain backbones with strong generalization capability.</p>
-  - <p style='text-align:justify'><i>2023.02</i>: &nbsp;🎉🎉 Two Papers (Bi3D and Uni3D) are accepted by <font color="red">CVPR 2023</font>. One is about active domain adaptation for 3D object detection, another is about multi-dataset training for 3d object detection.</p>
-  - <p style='text-align:justify'><i>2022.07</i>: &nbsp;🎉🎉 One Paper (HelixFormer) is accepted by <font color="red">ACM'MM 2022</font>. We explore Transformer architecture on few-shot fine-grained classification task.</p>
 
-<div style='margin-top: 30pt'></div>
+<ul style="margin:0; padding-left:1.2em;">
+  <li><p style='text-align:justify; margin:4px 0'><i>2026.3</i>: &nbsp;🎉🎉 Intern-S1-Pro technical report is released.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2026.2</i>: &nbsp;🎉🎉 InternAgent-1.5 technical report is released.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.12</i>: &nbsp;🎉🎉 SciEvalKit (An Open-source Evaluation Toolkit for Scientific General Intelligence) is released.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.10</i>: &nbsp;🎉🎉 Codes of InternAgent 1.0 is released on github.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.7</i>: &nbsp;🎉🎉 SPOT is accepted by <span style="color:#c0392b; font-weight:600;">IEEE T-PAMI 2025</span>.</p></li>
+</ul>
+
+<div id="news-more" class="news-item-hidden">
+<ul style="margin:0; padding-left:1.2em;">
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.6</i>: &nbsp;🎉🎉 Two papers (Lumina Image 2.0 and Chimera) are accepted by <span style="color:#c0392b; font-weight:600;">ICCV 2025</span>. One is about text-to-image generation, the other is about multimodal reasoning.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.5</i>: &nbsp;🎉🎉 Two papers (SurveyForge and Dolphin) are accepted by <span style="color:#c0392b; font-weight:600;">ACL 2025</span>. Both are introduced for accelerate scientific research.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.5</i>: &nbsp;🎉🎉 We release InternAgent (NovelSeek), a unified closed-loop multi-agent framework for Automatic Scientific Research.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <span style="color:#c0392b; font-weight:600;">CVPR 2025</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <span style="color:#c0392b; font-weight:600;">ICLR 2025</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <span style="color:#c0392b; font-weight:600;">AAAI 2025</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.10</i>: &nbsp;🎉🎉 I receive the <span style="color:#c0392b; font-weight:600;">national scholarship</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <span style="color:#c0392b; font-weight:600;">NeurIPS 2024</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <span style="color:#c0392b; font-weight:600;">ECCV 2024</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <span style="color:#c0392b; font-weight:600;">ICLR 2024</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2023.09</i>: &nbsp;🎉🎉 One Paper (AD-PT) is accepted by <span style="color:#c0392b; font-weight:600;">NeurIPS 2023</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2023.02</i>: &nbsp;🎉🎉 Two Papers (Bi3D and Uni3D) are accepted by <span style="color:#c0392b; font-weight:600;">CVPR 2023</span>.</p></li>
+  <li><p style='text-align:justify; margin:4px 0'><i>2022.07</i>: &nbsp;🎉🎉 One Paper (HelixFormer) is accepted by <span style="color:#c0392b; font-weight:600;">ACM'MM 2022</span>.</p></li>
+</ul>
+</div>
+
+<button class="news-toggle-btn" id="news-toggle" onclick="(function(){var m=document.getElementById('news-more'),b=document.getElementById('news-toggle'),open=m.style.display==='block';m.style.display=open?'none':'block';b.innerHTML=open?'Show more &nbsp;↓':'Show less &nbsp;↑';})()">Show more &nbsp;↓</button>
+
+</div>
 
 
 
-# 📝 Publications & Preprints
+<div class="section-card" markdown="1">
+
+# 📝 Publications · Preprints
 
 <style>
+.tab-switcher {
+  display: inline-flex;
+  background: #f0f0f0;
+  border-radius: 12px;
+  padding: 4px;
+  gap: 2px;
+  margin-bottom: 18px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.12);
+}
+
 .toggleButton {
-  background-color: #007BFF; /* 按钮的背景颜色 */
-  color: white; /* 按钮的文字颜色 */
-  border: none; /* 去掉按钮的边框 */
-  padding: 8px 20px; /* 调整后的内边距 */
-  text-align: center; /* 文本居中 */
-  text-decoration: none; /* 去掉文本装饰 */
-  display: inline-block; /* 使按钮在行内显示 */
-  font-size: 14px; /* 调整后的字体大小 */
-  margin: 4px 2px; /* 外边距 */
-  cursor: pointer; /* 鼠标悬停时显示手型光标 */
-  border-radius: 20px; /* 胶囊形状 */
-  transition-duration: 0.4s; /* 过渡效果 */
+  position: relative;
+  background: transparent;
+  color: #666;
+  border: none;
+  padding: 8px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 9px;
+  transition: color 0.25s ease;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+  z-index: 1;
 }
 
 .toggleButton:hover {
-  background-color: white; /* 鼠标悬停时的背景颜色 */
-  color: black; /* 鼠标悬停时的文字颜色 */
-  border: 1px solid #007BFF; /* 鼠标悬停时的边框颜色 */
+  color: #333;
+}
+
+.toggleButton.active {
+  background: #ffffff;
+  color: #1a73e8;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15), 0 0 0 0.5px rgba(0,0,0,0.06);
+  font-weight: 600;
+}
+
+.toggleButton.active::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #1a73e8;
+  margin-right: 6px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
 }
 </style>
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <button class="toggleButton" data-target="publications">publications</button>
-  <button class="toggleButton" data-target="preprints">preprints</button>
+<div class="tab-switcher">
+  <button class="toggleButton active" data-target="publications">📄 Publications</button>
+  <button class="toggleButton" data-target="preprints">📋 Preprints</button>
 </div>
 
 <div id="publications" style="display: block; margin-top: 10px;">
@@ -319,15 +375,16 @@ Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Su
 </div>
 
 <script>
-  // 获取所有按钮并添加点击事件
   document.querySelectorAll(".toggleButton").forEach(button => {
     button.addEventListener("click", function() {
       const targetId = this.getAttribute("data-target");
-      // 隐藏所有内容块
+      // 切换 active 样式
+      document.querySelectorAll(".toggleButton").forEach(btn => btn.classList.remove("active"));
+      this.classList.add("active");
+      // 切换内容显示
       document.querySelectorAll("#publications, #preprints").forEach(content => {
         content.style.display = "none";
       });
-      // 显示对应的内容块
       const targetContent = document.getElementById(targetId);
       if (targetContent) {
         targetContent.style.display = "block";
@@ -336,32 +393,172 @@ Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Su
   });
 </script>
 
+</div><!-- end section-card: publications -->
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<style>
+.timeline {
+  position: relative;
+  padding: 0;
+  list-style: none;
+  margin: 16px 0 0 0;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: linear-gradient(to bottom, #1a73e8 0%, #c5d8fb 100%);
+  border-radius: 2px;
+}
+
+.timeline li {
+  position: relative;
+  padding: 0 0 22px 32px;
+  margin: 0;
+  font-size: 1em;
+}
+
+.timeline li:last-child {
+  padding-bottom: 4px;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2.5px solid #1a73e8;
+  box-shadow: 0 0 0 3px rgba(26,115,232,0.12);
+  z-index: 1;
+}
+
+.timeline li.tl-current::before {
+  background: #1a73e8;
+  box-shadow: 0 0 0 4px rgba(26,115,232,0.18);
+}
+
+.tl-period {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #1a73e8;
+  background: rgba(26,115,232,0.08);
+  border-radius: 4px;
+  padding: 1px 8px;
+  margin-bottom: 3px;
+  letter-spacing: 0.2px;
+}
+
+.tl-period.tl-now {
+  background: rgba(26,115,232,0.15);
+}
+
+.tl-body {
+  color: #333;
+  margin-top: 2px;
+  line-height: 1.5;
+}
+
+.tl-body a {
+  color: #1a73e8;
+}
+
+.tl-sub {
+  color: #888;
+  font-size: 0.88em;
+  margin-top: 1px;
+}
+</style>
+
 <div style='margin-top: 30pt'></div>
+
+<div class="section-card" markdown="1">
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D. Candidate, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
-- *2018.06 - 2022.06*, Bachelor Degree, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
 
-<div style='margin-top: 30pt'></div>
+<ul class="timeline">
+  <li class="tl-current">
+    <span class="tl-period tl-now">2022.09 — Present</span>
+    <div class="tl-body">Ph.D. Candidate · School of Information Science and Technology</div>
+    <div class="tl-sub"><a href="https://www.fudan.edu.cn/">Fudan University</a></div>
+  </li>
+  <li>
+    <span class="tl-period">2018.09 — 2022.06</span>
+    <div class="tl-body">Bachelor of Engineering · Electronic Engineering</div>
+    <div class="tl-sub"><a href="https://www.fudan.edu.cn/">Fudan University</a></div>
+  </li>
+</ul>
+
+</div>
+
+<div class="section-card" markdown="1">
 
 # 💬 Invited Talks
-- *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1e8411C7ZK/?spm_id_from=333.337.search-card.all.click&vd_source=478510f65af6875433547b21fe148987)
-- *2023.07*, Invited talk of **Towards 3D General Representation** at Techbeat. [[Video]](https://www.techbeat.net/talk-info?id=795)
-- *2023.03*, Invited talk of **Transferable of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Vo4y1b7pS/?spm_id_from=333.337.search-card.all.click)
 
-<div style='margin-top: 30pt'></div>
+<ul class="timeline">
+  <li>
+    <span class="tl-period">2023.09</span>
+    <div class="tl-body"><strong>Efficient Pre-training of Autonomous Driving</strong></div>
+    <div class="tl-sub"><a href="https://www.bilibili.com/video/BV1e8411C7ZK/?spm_id_from=333.337.search-card.all.click&vd_source=478510f65af6875433547b21fe148987">▶ Watch Video</a></div>
+  </li>
+  <li>
+    <span class="tl-period">2023.07</span>
+    <div class="tl-body"><strong>Towards 3D General Representation</strong> · Techbeat</div>
+    <div class="tl-sub"><a href="https://www.techbeat.net/talk-info?id=795">▶ Watch Video</a></div>
+  </li>
+  <li>
+    <span class="tl-period">2023.03</span>
+    <div class="tl-body"><strong>Transferability of Autonomous Driving</strong></div>
+    <div class="tl-sub"><a href="https://www.bilibili.com/video/BV1Vo4y1b7pS/?spm_id_from=333.337.search-card.all.click">▶ Watch Video</a></div>
+  </li>
+</ul>
+
+</div>
+
+<div class="section-card" markdown="1">
 
 # 💻 Internships
 
-- *2024.10 - Now*, [Shanghai AI Laboratory](), China.
-- *2022.08 - 2024.02*, [Shanghai AI Laboratory](), China.
+<ul class="timeline">
+  <li class="tl-current">
+    <span class="tl-period tl-now">2024.10 — 2026.01</span>
+    <div class="tl-body"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></div>
+    <div class="tl-sub">China</div>
+  </li>
+  <li>
+    <span class="tl-period">2022.08 — 2024.02</span>
+    <div class="tl-body"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></div>
+    <div class="tl-sub">China</div>
+  </li>
+</ul>
 
-<div style='margin-top: 30pt'></div>
+</div>
+
+<div class="section-card" markdown="1">
 
 # 📝 Academic Services
 
-- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, T-IP, T-CSVT, T-MM.
+<div class="venue-tags">
+  <span class="venue-tag">CVPR</span>
+  <span class="venue-tag">ICCV</span>
+  <span class="venue-tag">ECCV</span>
+  <span class="venue-tag">NeurIPS</span>
+  <span class="venue-tag">ICML</span>
+  <span class="venue-tag">ICLR</span>
+  <span class="venue-tag">T-IP</span>
+  <span class="venue-tag">T-CSVT</span>
+  <span class="venue-tag">T-MM</span>
+</div>
+
+</div>

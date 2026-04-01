@@ -9,3 +9,4 @@ _site/
 .idea/modules.xml
 push.sh
 .DS_Store
+.claude/
